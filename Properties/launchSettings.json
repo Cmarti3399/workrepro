@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Tek_Work_Repro": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7095",
+      "launchBrowser": false
+    }
+  }
+}
